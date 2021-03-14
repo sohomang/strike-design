@@ -1,0 +1,14 @@
+title: Strike Design
+description: >- # this means to ignore newlines until "baseurl:"
+  Future home of something great!
+
+#theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+
+aux_links:
+  "Contribute":
+    - "https://github.com/sohomang/strike-design-mobile"
+
+
+twitter_username: ln_strike
